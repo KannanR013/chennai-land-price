@@ -1,0 +1,1001 @@
+area,locality,distance,road_access,land_type,price
+1312,Chrompet,1.9,No,Residential,9615000
+6467,Chrompet,31.3,Yes,Commercial,36821000
+4539,Nungambakkam,21.5,Yes,Commercial,102863000
+7521,Perambur,1.2,Yes,Commercial,90642000
+3157,Perambur,4.5,No,Residential,24804000
+7011,Velachery,2.5,No,Residential,104934000
+2801,Ambattur,29.2,No,Residential,14919000
+6732,Nungambakkam,10.8,Yes,Residential,177001000
+5607,Porur,29.4,Yes,Commercial,50829000
+5999,Guindy,23.0,Yes,Residential,54489000
+5642,Kilpauk,24.4,Yes,Commercial,110604000
+7132,Nungambakkam,2.1,No,Commercial,184703000
+7579,Tambaram,25.4,Yes,Commercial,51103000
+1570,Porur,10.0,Yes,Commercial,23296000
+3671,Tambaram,13.3,Yes,Commercial,23679000
+1652,Adyar,22.3,No,Residential,24064000
+4734,Porur,9.5,Yes,Residential,53563000
+6696,Velachery,22.8,Yes,Commercial,89600000
+7574,Guindy,25.5,Yes,Residential,91589000
+4558,Chrompet,21.7,Yes,Commercial,46353000
+7956,Perambur,19.0,Yes,Commercial,78411000
+7598,OMR,34.5,No,Residential,38038000
+1101,Adyar,25.9,Yes,Residential,15172000
+1752,Ambattur,10.0,No,Residential,15526000
+2047,Guindy,25.2,No,Commercial,23449000
+2430,Adyar,8.6,No,Residential,46645000
+458,Nungambakkam,3.4,Yes,Residential,9316000
+980,OMR,18.5,No,Commercial,9101000
+7628,Kilpauk,20.4,No,Residential,104732000
+1172,Nungambakkam,4.3,No,Commercial,32314000
+843,Guindy,23.9,Yes,Residential,8533000
+1295,Mylapore,9.5,Yes,Commercial,27965000
+2446,Porur,30.7,Yes,Commercial,26799000
+814,Adyar,23.2,Yes,Residential,17323000
+3729,T Nagar,17.5,Yes,Commercial,98197000
+3598,Anna Nagar,10.0,No,Commercial,71082000
+4952,Perambur,23.5,No,Residential,25967000
+5144,Anna Nagar,26.0,Yes,Commercial,74249000
+7931,Ambattur,30.0,Yes,Residential,54178000
+961,T Nagar,21.2,Yes,Commercial,18360000
+5142,Nungambakkam,21.2,Yes,Commercial,139879000
+2536,OMR,7.9,No,Residential,22133000
+2857,Chrompet,16.5,Yes,Residential,22476000
+1000,Adyar,19.3,No,Residential,19767000
+2401,Kilpauk,13.6,Yes,Commercial,56166000
+7011,Tambaram,23.2,Yes,Commercial,57842000
+1500,Kilpauk,10.0,Yes,Residential,22654000
+3208,Guindy,7.9,No,Commercial,46211000
+1156,Anna Nagar,22.6,No,Residential,11716000
+2545,Chrompet,6.5,No,Commercial,25028000
+6060,Kilpauk,31.7,Yes,Commercial,87242000
+742,T Nagar,11.5,Yes,Commercial,16318000
+3297,Adyar,27.5,No,Residential,52285000
+6952,T Nagar,28.6,No,Residential,78812000
+3772,Perambur,28.3,Yes,Commercial,28058000
+7544,Sholinganallur,2.3,No,Residential,80108000
+2900,OMR,28.9,Yes,Residential,17372000
+2682,OMR,30.4,No,Commercial,26190000
+4792,Mylapore,12.3,Yes,Residential,101925000
+2574,Tambaram,2.3,No,Commercial,23849000
+4589,Tambaram,4.9,Yes,Commercial,33898000
+7982,Ambattur,28.4,Yes,Commercial,62348000
+3104,Kilpauk,22.2,Yes,Commercial,55318000
+3696,OMR,24.7,Yes,Residential,33791000
+6528,Chrompet,31.7,No,Commercial,40518000
+2121,Velachery,15.6,No,Commercial,28396000
+4276,Ambattur,28.0,Yes,Residential,23216000
+3145,Tambaram,4.2,Yes,Commercial,25452000
+778,Anna Nagar,9.3,No,Residential,12015000
+1992,Tambaram,25.4,No,Commercial,10736000
+445,Guindy,31.4,Yes,Commercial,4775000
+4643,Guindy,16.8,Yes,Residential,57312000
+4751,Chrompet,34.6,No,Commercial,30522000
+3895,Ambattur,29.2,No,Residential,22072000
+6558,Velachery,9.4,No,Commercial,100414000
+6245,Adyar,10.7,No,Commercial,138334000
+1635,T Nagar,8.9,Yes,Residential,27194000
+4216,Ambattur,15.1,Yes,Commercial,40320000
+560,Guindy,30.1,No,Commercial,4483000
+3594,Perambur,30.0,No,Residential,19322000
+637,Porur,14.2,No,Residential,6393000
+4775,Tambaram,1.9,No,Residential,24914000
+4182,Mylapore,7.2,No,Commercial,89502000
+6635,OMR,30.9,No,Commercial,49509000
+6536,Anna Nagar,19.3,No,Residential,91527000
+729,Chrompet,26.6,Yes,Residential,5399000
+1434,Nungambakkam,17.1,Yes,Residential,28966000
+1774,OMR,21.6,Yes,Residential,20856000
+2955,Anna Nagar,20.6,No,Commercial,54773000
+6057,Tambaram,29.2,Yes,Residential,31585000
+5318,Chrompet,28.4,Yes,Commercial,43700000
+4544,Adyar,23.0,Yes,Commercial,112650000
+5606,OMR,31.3,No,Residential,38127000
+2612,Chrompet,21.9,No,Commercial,20204000
+3040,Velachery,30.0,Yes,Commercial,41325000
+5068,Porur,21.8,No,Commercial,39283000
+4394,T Nagar,8.2,No,Commercial,93519000
+2663,Kilpauk,19.9,Yes,Residential,33137000
+6610,Ambattur,9.2,No,Commercial,57029000
+2215,Velachery,14.7,Yes,Commercial,37199000
+4749,Ambattur,12.7,No,Commercial,45259000
+2288,Velachery,5.1,Yes,Commercial,35271000
+6053,Perambur,7.3,Yes,Commercial,67863000
+4697,Perambur,21.3,Yes,Residential,31950000
+515,Velachery,25.1,Yes,Commercial,5247000
+6113,Velachery,33.1,No,Residential,52976000
+4321,Porur,16.0,Yes,Residential,37387000
+7134,Adyar,3.2,No,Residential,153964000
+1622,T Nagar,28.6,No,Residential,23648000
+3809,Perambur,21.6,Yes,Commercial,36434000
+5221,Mylapore,34.7,No,Residential,59826000
+2102,Perambur,22.3,No,Residential,11021000
+1682,Adyar,1.1,No,Commercial,40793000
+2716,Guindy,24.9,No,Residential,28155000
+6881,Perambur,22.3,Yes,Commercial,53482000
+7841,T Nagar,10.0,Yes,Residential,132981000
+6535,Tambaram,29.0,No,Commercial,29766000
+3697,Guindy,33.1,No,Commercial,28089000
+6417,Sholinganallur,12.0,No,Residential,55823000
+7449,Mylapore,20.6,Yes,Commercial,169835000
+4254,T Nagar,18.6,No,Commercial,73281000
+7070,Chrompet,17.7,Yes,Commercial,63063000
+1256,Chrompet,30.2,No,Commercial,8825000
+7064,Sholinganallur,26.9,Yes,Commercial,66499000
+6728,Adyar,14.7,Yes,Commercial,163830000
+5500,OMR,26.7,No,Residential,34986000
+2759,Kilpauk,15.9,No,Residential,29284000
+2360,Perambur,25.1,No,Residential,14164000
+7878,Mylapore,4.9,Yes,Residential,170809000
+6178,Ambattur,10.3,No,Commercial,49396000
+1961,Sholinganallur,32.3,Yes,Residential,14912000
+3184,Sholinganallur,32.8,No,Residential,19703000
+5150,Tambaram,35.0,No,Residential,18576000
+4921,OMR,26.9,No,Commercial,62305000
+2356,Guindy,20.4,Yes,Commercial,28152000
+7882,Guindy,28.6,No,Residential,63536000
+5234,Ambattur,12.3,Yes,Commercial,44659000
+6318,Anna Nagar,5.9,Yes,Residential,120612000
+5505,OMR,24.6,Yes,Commercial,81510000
+2994,Sholinganallur,22.3,No,Residential,26973000
+7944,Chrompet,10.8,Yes,Residential,61840000
+6166,Chrompet,30.7,No,Residential,35045000
+3057,Anna Nagar,28.1,No,Commercial,39877000
+3775,Ambattur,20.2,Yes,Residential,22150000
+5476,Sholinganallur,24.2,No,Residential,40727000
+2491,Porur,23.7,No,Commercial,23924000
+3230,Porur,34.6,No,Commercial,25568000
+2031,Velachery,35.0,No,Residential,12999000
+2823,Tambaram,34.8,No,Residential,13088000
+466,Velachery,20.2,Yes,Commercial,8029000
+6944,Perambur,8.8,No,Residential,59994000
+6589,Chrompet,25.5,Yes,Residential,51229000
+6860,Velachery,16.0,No,Residential,57119000
+3803,Guindy,7.0,Yes,Commercial,74378000
+1747,Mylapore,9.7,No,Commercial,41718000
+4236,Adyar,33.7,Yes,Residential,69915000
+7328,Sholinganallur,28.4,No,Residential,61920000
+1412,Ambattur,16.5,No,Commercial,14281000
+5928,Adyar,8.9,Yes,Commercial,194273000
+5605,Adyar,29.0,No,Commercial,77238000
+2893,Anna Nagar,34.9,Yes,Residential,28708000
+4116,Sholinganallur,13.6,No,Residential,50415000
+4408,Mylapore,21.9,No,Residential,64175000
+2334,Porur,30.1,Yes,Commercial,23454000
+896,OMR,14.5,Yes,Residential,12682000
+5829,Adyar,8.2,Yes,Residential,141757000
+6846,T Nagar,20.2,Yes,Residential,125261000
+3091,Nungambakkam,27.3,Yes,Commercial,77180000
+4825,T Nagar,9.5,Yes,Residential,99850000
+3334,Anna Nagar,27.9,Yes,Commercial,44019000
+6476,T Nagar,15.3,Yes,Residential,122582000
+5263,Ambattur,4.7,Yes,Residential,54286000
+4671,Chrompet,11.3,Yes,Residential,48959000
+6020,Sholinganallur,4.7,No,Residential,81809000
+938,T Nagar,5.3,No,Commercial,27486000
+4541,Porur,21.6,Yes,Residential,45700000
+4916,Perambur,25.5,Yes,Commercial,42787000
+7178,OMR,16.4,No,Residential,57660000
+3466,Velachery,33.4,No,Residential,20187000
+1191,Sholinganallur,26.3,No,Residential,10011000
+5001,Ambattur,12.2,Yes,Commercial,48592000
+3864,Perambur,30.5,Yes,Commercial,32906000
+4556,Tambaram,8.2,No,Residential,31565000
+3411,Ambattur,4.9,No,Residential,31134000
+7104,Perambur,22.1,Yes,Commercial,53010000
+2931,Perambur,32.3,No,Residential,12681000
+3683,Chrompet,3.4,Yes,Residential,36878000
+4116,Sholinganallur,12.6,No,Commercial,62821000
+5284,Tambaram,3.9,Yes,Residential,33167000
+1068,Chrompet,10.3,No,Commercial,10453000
+6584,Nungambakkam,18.4,No,Commercial,130114000
+4386,Tambaram,18.9,No,Residential,20232000
+462,Anna Nagar,8.0,Yes,Residential,8906000
+463,Adyar,17.9,No,Residential,6395000
+4498,Nungambakkam,20.0,No,Residential,75998000
+553,Sholinganallur,16.6,Yes,Commercial,8429000
+5644,Guindy,15.2,Yes,Commercial,69628000
+5463,Perambur,16.6,No,Residential,36225000
+5224,Sholinganallur,14.6,Yes,Commercial,95336000
+3128,Nungambakkam,27.5,Yes,Residential,53246000
+3262,Perambur,12.9,Yes,Residential,22778000
+5334,T Nagar,6.2,Yes,Residential,137117000
+6580,Porur,20.2,No,Commercial,76168000
+4002,T Nagar,3.3,No,Commercial,112937000
+4556,OMR,3.5,No,Commercial,48063000
+1028,Velachery,22.9,Yes,Commercial,14040000
+6453,Perambur,31.5,No,Residential,31628000
+906,T Nagar,16.3,No,Residential,13836000
+6196,Nungambakkam,15.9,No,Residential,112575000
+3748,Sholinganallur,27.3,Yes,Commercial,33965000
+3566,Chrompet,10.7,Yes,Commercial,32093000
+3265,Kilpauk,11.5,No,Residential,48967000
+4978,Velachery,13.8,No,Residential,58941000
+6014,Guindy,32.0,Yes,Commercial,68335000
+1876,Velachery,33.3,No,Commercial,16412000
+1032,T Nagar,11.1,Yes,Residential,22719000
+1473,Tambaram,21.3,Yes,Residential,7191000
+7027,Tambaram,31.7,No,Residential,27126000
+4038,Nungambakkam,21.8,No,Residential,66893000
+6825,Perambur,16.9,Yes,Commercial,79456000
+4182,Porur,27.2,No,Commercial,44950000
+5353,Perambur,5.7,No,Residential,49661000
+1240,Ambattur,25.2,Yes,Commercial,7777000
+7816,Porur,18.5,No,Residential,71020000
+7646,Porur,12.9,Yes,Commercial,78340000
+3563,Nungambakkam,34.8,No,Residential,38556000
+6254,Mylapore,23.1,Yes,Residential,85204000
+6102,Porur,29.3,No,Commercial,55020000
+2496,Anna Nagar,8.3,Yes,Commercial,48282000
+1398,Velachery,2.6,No,Commercial,19205000
+5288,Porur,19.2,Yes,Residential,40542000
+2370,OMR,20.4,Yes,Residential,23487000
+4857,Ambattur,18.2,Yes,Commercial,51818000
+3458,Sholinganallur,9.6,Yes,Commercial,63272000
+5782,Guindy,22.4,No,Residential,43307000
+5665,Mylapore,7.0,No,Commercial,141578000
+6265,Adyar,27.4,No,Residential,74944000
+7656,Nungambakkam,2.4,No,Commercial,269197000
+699,Velachery,26.6,Yes,Commercial,8674000
+5771,Mylapore,12.3,Yes,Commercial,138117000
+7728,Porur,33.5,No,Residential,44540000
+6931,Kilpauk,18.7,Yes,Commercial,108284000
+1878,Mylapore,19.5,No,Residential,23370000
+4052,Velachery,21.5,No,Residential,40493000
+6354,Anna Nagar,30.6,No,Commercial,82040000
+1014,Anna Nagar,23.8,No,Commercial,16133000
+655,T Nagar,5.9,No,Residential,9931000
+3400,Chrompet,13.3,Yes,Residential,30834000
+4036,OMR,26.9,Yes,Commercial,44081000
+1329,Nungambakkam,1.9,Yes,Commercial,47713000
+2544,Adyar,27.3,No,Residential,41765000
+4423,Kilpauk,7.8,Yes,Residential,76615000
+1119,Porur,28.6,No,Commercial,10290000
+7701,Velachery,11.2,Yes,Residential,112106000
+2046,Adyar,27.9,Yes,Commercial,33614000
+4228,OMR,28.3,Yes,Residential,27027000
+6288,Guindy,17.3,No,Commercial,94567000
+5662,OMR,3.5,No,Commercial,66803000
+5641,Ambattur,21.0,Yes,Commercial,52313000
+1417,Mylapore,18.6,No,Residential,19075000
+3234,Nungambakkam,33.2,No,Residential,38994000
+2648,Ambattur,5.3,No,Residential,19424000
+1663,Tambaram,6.8,No,Residential,11269000
+5654,Anna Nagar,27.2,No,Residential,68654000
+648,Chrompet,17.9,No,Commercial,5533000
+3726,Chrompet,11.1,Yes,Residential,26059000
+2071,Porur,12.6,Yes,Commercial,30577000
+3229,Mylapore,34.2,Yes,Commercial,51084000
+4221,Nungambakkam,5.2,No,Residential,74838000
+7479,Sholinganallur,21.9,Yes,Residential,92159000
+2961,Guindy,7.5,Yes,Commercial,67205000
+2927,Kilpauk,17.9,Yes,Commercial,57882000
+5178,Nungambakkam,13.0,Yes,Commercial,156487000
+5909,Chrompet,17.0,Yes,Residential,45027000
+3396,Guindy,27.0,No,Residential,28493000
+3369,Nungambakkam,19.8,Yes,Commercial,90289000
+7160,Velachery,34.6,Yes,Residential,70931000
+3177,Perambur,20.0,No,Residential,18373000
+729,Ambattur,2.5,Yes,Commercial,10039000
+5366,T Nagar,31.4,Yes,Commercial,111114000
+5450,Sholinganallur,26.1,No,Commercial,57946000
+6205,Porur,20.1,No,Residential,44851000
+5181,Sholinganallur,11.5,Yes,Commercial,73673000
+5138,Perambur,20.6,Yes,Commercial,44231000
+6745,Tambaram,29.6,Yes,Residential,26270000
+1962,Adyar,1.6,No,Commercial,46190000
+4510,Sholinganallur,27.3,No,Residential,39544000
+3062,Ambattur,34.9,No,Commercial,15583000
+4767,Kilpauk,12.6,No,Commercial,85341000
+2685,Nungambakkam,20.0,Yes,Commercial,78889000
+6175,Guindy,17.6,No,Commercial,89654000
+2640,Guindy,10.8,No,Commercial,47984000
+1599,Perambur,10.9,No,Residential,11495000
+6522,Velachery,17.3,Yes,Commercial,120116000
+1294,T Nagar,21.9,Yes,Residential,18158000
+5626,Nungambakkam,8.9,Yes,Commercial,162322000
+6714,Chrompet,5.7,Yes,Commercial,87083000
+4311,Porur,23.1,No,Commercial,34606000
+1132,Perambur,23.2,Yes,Residential,9591000
+7261,Kilpauk,7.0,Yes,Commercial,175174000
+7545,Guindy,32.5,Yes,Residential,62226000
+3144,Kilpauk,10.7,No,Residential,50076000
+7025,Nungambakkam,4.8,Yes,Commercial,250258000
+6434,Anna Nagar,12.5,No,Residential,84222000
+3721,Kilpauk,29.1,No,Residential,34693000
+4311,T Nagar,12.0,Yes,Residential,74015000
+2587,Perambur,33.4,No,Residential,11646000
+908,Nungambakkam,23.7,No,Commercial,16709000
+7732,Kilpauk,31.2,No,Residential,82427000
+5435,OMR,8.5,Yes,Commercial,70060000
+3460,Tambaram,15.1,No,Residential,21501000
+7552,Tambaram,27.8,No,Commercial,33878000
+7189,Anna Nagar,19.6,Yes,Residential,96764000
+1352,Porur,24.1,No,Residential,11159000
+4114,Anna Nagar,5.5,No,Commercial,88017000
+7010,Chrompet,11.5,Yes,Commercial,63779000
+5137,Nungambakkam,3.5,No,Commercial,160739000
+7725,Anna Nagar,3.3,No,Residential,113216000
+6673,T Nagar,22.8,No,Commercial,145491000
+7913,Mylapore,31.8,No,Residential,98533000
+1489,Ambattur,23.2,No,Residential,7089000
+1443,Ambattur,25.7,Yes,Residential,10769000
+5917,Porur,25.4,No,Commercial,58927000
+1670,OMR,10.4,Yes,Residential,22691000
+7639,Perambur,31.2,Yes,Residential,38623000
+5297,Porur,23.8,Yes,Residential,47739000
+4821,Nungambakkam,8.4,Yes,Residential,113686000
+7907,Mylapore,25.9,No,Commercial,124320000
+4670,Chrompet,8.5,No,Commercial,38011000
+6422,Kilpauk,32.0,No,Commercial,63957000
+5899,Chrompet,14.0,No,Commercial,49356000
+6580,T Nagar,19.3,Yes,Residential,107084000
+4193,Perambur,32.1,No,Commercial,28480000
+2488,Nungambakkam,7.9,Yes,Commercial,85604000
+7194,Guindy,7.5,No,Commercial,124631000
+996,Mylapore,7.4,Yes,Commercial,24558000
+7846,Velachery,1.5,Yes,Residential,131897000
+2387,Kilpauk,24.7,Yes,Commercial,46670000
+2718,Perambur,13.9,No,Commercial,23391000
+4217,Porur,4.4,No,Commercial,62019000
+774,Sholinganallur,20.1,Yes,Residential,6273000
+5144,Tambaram,25.5,No,Residential,19251000
+7226,Tambaram,9.4,No,Commercial,62595000
+5656,Guindy,26.1,No,Residential,55226000
+6300,T Nagar,19.6,Yes,Residential,113838000
+7101,Adyar,23.7,Yes,Commercial,135397000
+6193,Adyar,6.1,Yes,Commercial,176025000
+5450,Chrompet,32.0,No,Residential,20906000
+537,Anna Nagar,19.0,No,Commercial,7623000
+3927,Chrompet,28.4,Yes,Residential,28621000
+1972,Nungambakkam,22.1,No,Commercial,38129000
+3726,OMR,16.6,Yes,Residential,36177000
+5755,Adyar,34.7,Yes,Residential,74461000
+859,Porur,22.6,Yes,Residential,7159000
+3113,Perambur,20.2,Yes,Residential,22006000
+7670,Guindy,20.3,No,Residential,93416000
+7767,Velachery,19.5,Yes,Residential,101851000
+5208,Nungambakkam,5.9,No,Residential,103480000
+7237,Tambaram,29.9,No,Commercial,41994000
+6332,Guindy,3.7,No,Residential,63739000
+3190,Adyar,21.6,No,Commercial,49599000
+4419,Porur,8.8,No,Commercial,44994000
+1102,Sholinganallur,27.3,No,Residential,9271000
+3512,T Nagar,25.2,Yes,Commercial,63224000
+2925,Anna Nagar,16.1,No,Residential,33188000
+4962,Porur,19.9,No,Residential,29095000
+5290,Adyar,21.3,No,Commercial,83092000
+1093,Perambur,25.6,Yes,Residential,8060000
+2866,Velachery,10.1,Yes,Residential,31552000
+4366,Velachery,27.6,No,Commercial,57651000
+5264,Porur,22.0,No,Residential,30497000
+3121,Sholinganallur,29.6,No,Commercial,29648000
+7441,Mylapore,23.1,Yes,Commercial,149417000
+4324,Nungambakkam,11.7,No,Commercial,103550000
+5117,Porur,27.6,No,Commercial,40400000
+1332,OMR,32.7,Yes,Residential,11447000
+4181,Guindy,33.1,Yes,Commercial,57297000
+7108,Adyar,29.8,No,Commercial,100074000
+5795,Velachery,6.2,No,Commercial,77332000
+5169,Porur,14.6,No,Residential,47823000
+7054,Kilpauk,19.3,Yes,Residential,112358000
+1762,OMR,23.0,Yes,Commercial,26883000
+3926,Perambur,4.6,Yes,Commercial,45133000
+5155,Ambattur,24.4,Yes,Commercial,40292000
+5221,Chrompet,24.5,Yes,Commercial,54811000
+3807,Velachery,32.3,Yes,Residential,39011000
+2955,OMR,12.7,Yes,Commercial,38026000
+6107,Guindy,16.4,Yes,Commercial,77927000
+7356,Anna Nagar,12.7,Yes,Residential,146100000
+1829,Ambattur,19.8,No,Commercial,17280000
+5558,Sholinganallur,7.3,No,Commercial,62681000
+4082,Nungambakkam,21.1,No,Residential,72322000
+6165,Perambur,28.5,Yes,Residential,46686000
+3070,OMR,7.7,Yes,Commercial,53064000
+2967,Chrompet,21.3,No,Residential,17322000
+1813,Tambaram,28.7,No,Residential,8145000
+2901,Nungambakkam,5.0,No,Residential,62819000
+5108,T Nagar,14.0,Yes,Commercial,135860000
+1819,Chrompet,19.9,No,Commercial,12098000
+5474,Porur,2.8,No,Residential,51950000
+5000,Sholinganallur,18.2,No,Commercial,66123000
+4036,Mylapore,17.6,Yes,Residential,76355000
+2651,Anna Nagar,8.6,No,Residential,45109000
+6674,Perambur,17.8,Yes,Residential,48436000
+4840,OMR,29.0,Yes,Commercial,56952000
+6429,Adyar,29.2,Yes,Commercial,142781000
+3255,Velachery,30.3,Yes,Commercial,43133000
+2341,Perambur,8.1,No,Commercial,20130000
+7064,Nungambakkam,8.0,Yes,Commercial,227208000
+3051,T Nagar,34.3,No,Commercial,47330000
+7774,Ambattur,24.1,Yes,Residential,64239000
+885,Kilpauk,34.7,Yes,Residential,8453000
+2427,Mylapore,26.9,No,Commercial,35067000
+3793,Chrompet,13.8,Yes,Residential,29671000
+7586,Guindy,13.5,No,Commercial,118190000
+6402,Mylapore,4.2,No,Commercial,179310000
+2184,Sholinganallur,33.9,Yes,Commercial,20805000
+4883,OMR,20.6,No,Commercial,67688000
+1215,Anna Nagar,22.3,No,Residential,13189000
+4139,Porur,1.0,No,Residential,53304000
+5724,Kilpauk,11.3,No,Residential,82281000
+5843,OMR,31.7,Yes,Residential,42832000
+6586,Guindy,9.0,Yes,Residential,68975000
+5263,T Nagar,8.7,No,Residential,72953000
+7447,Adyar,15.4,Yes,Commercial,154616000
+7002,Guindy,4.5,No,Commercial,131859000
+7063,Perambur,26.6,Yes,Residential,39210000
+5724,Tambaram,6.6,No,Residential,36158000
+5446,Sholinganallur,24.3,Yes,Residential,61393000
+5229,Adyar,25.8,No,Commercial,85641000
+5680,Velachery,3.9,No,Residential,81949000
+2083,Velachery,18.6,Yes,Commercial,27062000
+6902,Kilpauk,33.5,No,Commercial,69661000
+981,Tambaram,19.0,Yes,Commercial,8760000
+7272,Mylapore,20.3,No,Residential,120232000
+997,Perambur,1.6,Yes,Residential,8731000
+6865,Anna Nagar,14.5,No,Commercial,119817000
+4795,Chrompet,19.3,Yes,Commercial,35431000
+2064,Kilpauk,34.1,Yes,Commercial,27360000
+5723,Mylapore,24.2,Yes,Commercial,127266000
+2354,Mylapore,3.0,Yes,Commercial,57581000
+2933,Anna Nagar,23.6,Yes,Residential,31930000
+1742,Anna Nagar,17.9,No,Commercial,25154000
+7555,Perambur,10.1,Yes,Residential,63395000
+923,Ambattur,9.9,Yes,Commercial,9517000
+7439,Porur,20.3,No,Residential,47806000
+5922,Tambaram,25.6,Yes,Residential,25003000
+776,Nungambakkam,17.0,No,Residential,12814000
+4929,Anna Nagar,28.3,No,Residential,49571000
+3020,Guindy,10.2,Yes,Commercial,44285000
+1869,Anna Nagar,8.6,Yes,Commercial,35959000
+6736,Velachery,29.7,No,Residential,52356000
+2788,Nungambakkam,20.2,No,Residential,47541000
+6729,Porur,27.4,Yes,Residential,39559000
+4836,Nungambakkam,12.8,Yes,Commercial,115063000
+6446,Mylapore,25.7,Yes,Residential,95879000
+890,Porur,34.1,Yes,Commercial,6499000
+7326,Kilpauk,18.7,No,Commercial,133795000
+4540,Adyar,5.5,No,Residential,89665000
+1470,Chrompet,9.1,No,Commercial,16594000
+6424,Mylapore,12.1,No,Commercial,128973000
+6789,T Nagar,27.2,Yes,Residential,84649000
+3730,OMR,5.1,No,Residential,39252000
+1382,Mylapore,4.1,No,Residential,23590000
+1147,T Nagar,25.2,No,Commercial,20517000
+7118,Velachery,34.7,Yes,Commercial,89142000
+2446,Ambattur,4.2,Yes,Residential,16827000
+2220,Perambur,5.4,No,Commercial,27580000
+5170,Adyar,20.9,Yes,Residential,110310000
+4032,Chrompet,28.5,Yes,Commercial,27872000
+1776,Anna Nagar,32.4,No,Commercial,22689000
+1815,Sholinganallur,13.0,Yes,Commercial,25988000
+5430,Anna Nagar,22.1,Yes,Commercial,104322000
+899,Porur,4.0,No,Residential,8518000
+4707,Perambur,9.5,Yes,Commercial,62926000
+6801,Ambattur,17.5,No,Commercial,46694000
+2194,Tambaram,2.0,No,Residential,16508000
+6681,OMR,20.9,Yes,Residential,51778000
+4771,Velachery,28.8,Yes,Residential,48842000
+3306,Sholinganallur,32.8,Yes,Residential,23199000
+6114,Guindy,13.2,Yes,Commercial,126186000
+1942,Tambaram,29.4,No,Commercial,8459000
+2305,Anna Nagar,21.5,Yes,Commercial,36449000
+7006,Nungambakkam,5.4,Yes,Commercial,181729000
+7913,Guindy,5.8,Yes,Commercial,179762000
+3640,Chrompet,20.9,No,Commercial,27836000
+3978,Guindy,27.9,No,Commercial,39208000
+7687,Guindy,32.6,No,Residential,66530000
+2913,Sholinganallur,26.0,No,Residential,19009000
+5092,Guindy,14.3,Yes,Residential,70994000
+2209,Tambaram,22.7,Yes,Commercial,13422000
+3241,Nungambakkam,34.4,Yes,Residential,55526000
+7663,Guindy,12.4,Yes,Commercial,114689000
+2502,OMR,27.8,Yes,Residential,20662000
+7646,T Nagar,15.1,No,Commercial,156321000
+6861,Porur,30.4,Yes,Residential,49647000
+2815,Anna Nagar,1.7,No,Residential,38420000
+1718,Sholinganallur,25.9,Yes,Commercial,22429000
+6171,Porur,2.1,Yes,Commercial,75134000
+1956,Nungambakkam,14.9,No,Commercial,42035000
+5083,Sholinganallur,19.7,No,Residential,34605000
+2812,Adyar,29.0,No,Residential,30001000
+2790,Chrompet,34.2,No,Residential,11743000
+7730,Porur,23.5,Yes,Commercial,73773000
+1928,OMR,16.2,No,Commercial,21933000
+5022,Velachery,3.1,Yes,Residential,80531000
+6596,Sholinganallur,21.1,Yes,Commercial,102119000
+6028,Ambattur,30.5,No,Residential,28011000
+7395,Kilpauk,25.3,Yes,Residential,110088000
+2135,T Nagar,28.5,Yes,Residential,31681000
+2054,Sholinganallur,34.9,Yes,Commercial,19593000
+948,Perambur,4.0,No,Commercial,12362000
+7555,Kilpauk,1.4,No,Residential,112487000
+5173,Tambaram,26.8,Yes,Residential,26107000
+7506,Velachery,19.2,No,Commercial,87025000
+5388,Tambaram,17.1,Yes,Commercial,41135000
+6082,Chrompet,14.7,No,Commercial,55447000
+7943,Porur,10.1,No,Residential,67306000
+2696,Velachery,29.7,Yes,Residential,22104000
+6740,Porur,29.1,No,Commercial,55987000
+2131,Porur,32.1,No,Commercial,19140000
+860,Mylapore,18.5,Yes,Residential,13757000
+6793,T Nagar,29.9,Yes,Residential,86819000
+872,Mylapore,9.5,No,Residential,17658000
+3417,Velachery,29.0,No,Residential,29098000
+5266,Porur,16.2,No,Commercial,53104000
+6535,Velachery,29.2,Yes,Commercial,60690000
+5087,Mylapore,27.5,Yes,Residential,79680000
+5737,Velachery,14.9,Yes,Residential,66622000
+5324,T Nagar,28.2,Yes,Commercial,111125000
+6211,Guindy,22.9,No,Commercial,89080000
+4223,Nungambakkam,11.3,No,Residential,70614000
+7276,Mylapore,13.7,No,Commercial,162200000
+2664,OMR,22.8,No,Commercial,32196000
+2847,Chrompet,7.4,Yes,Residential,29265000
+3710,Tambaram,23.5,Yes,Residential,22767000
+7829,Velachery,15.2,No,Residential,88892000
+1955,Mylapore,12.7,Yes,Commercial,56533000
+2859,Ambattur,29.7,Yes,Commercial,16464000
+6340,Velachery,28.5,Yes,Commercial,81317000
+6496,Nungambakkam,30.6,No,Commercial,113128000
+7373,Porur,5.0,Yes,Residential,78394000
+7506,Adyar,24.1,No,Commercial,119631000
+2040,T Nagar,12.7,No,Residential,32116000
+1062,Perambur,17.6,Yes,Commercial,11318000
+2115,Velachery,26.9,Yes,Residential,21249000
+1460,Adyar,21.9,No,Commercial,28080000
+709,Anna Nagar,19.1,No,Residential,10800000
+1961,Ambattur,1.6,Yes,Residential,16179000
+1456,Velachery,4.5,No,Residential,13863000
+4134,Velachery,25.7,No,Commercial,57034000
+7784,OMR,17.7,Yes,Residential,105438000
+556,Sholinganallur,8.8,Yes,Residential,7926000
+1408,T Nagar,13.5,Yes,Commercial,39576000
+5504,Ambattur,2.7,Yes,Residential,51550000
+1348,Guindy,15.2,No,Residential,14881000
+2083,T Nagar,24.6,Yes,Commercial,39703000
+2611,Ambattur,22.2,Yes,Commercial,25644000
+5460,Guindy,5.0,Yes,Residential,80729000
+2554,Perambur,29.3,Yes,Commercial,23193000
+4890,Anna Nagar,17.9,Yes,Commercial,86675000
+1129,Chrompet,31.8,No,Residential,6836000
+6327,Adyar,25.6,No,Residential,92826000
+4203,Velachery,2.7,Yes,Residential,69589000
+2961,Chrompet,15.5,Yes,Residential,27606000
+7379,Anna Nagar,5.7,Yes,Commercial,166848000
+2597,Tambaram,30.9,Yes,Commercial,17643000
+3678,Sholinganallur,33.7,No,Commercial,36112000
+5715,Sholinganallur,31.1,Yes,Residential,40839000
+1705,Mylapore,4.5,No,Commercial,35377000
+5408,OMR,2.0,Yes,Commercial,109785000
+4010,Sholinganallur,2.6,No,Commercial,48958000
+6687,Ambattur,26.3,Yes,Commercial,55622000
+1180,Tambaram,15.7,Yes,Commercial,9004000
+1617,Sholinganallur,29.5,Yes,Residential,14745000
+4244,Mylapore,30.0,Yes,Residential,63185000
+2678,OMR,2.7,Yes,Commercial,41756000
+4038,Porur,28.2,No,Residential,30245000
+4474,Adyar,26.3,Yes,Residential,66815000
+401,Ambattur,29.1,No,Residential,2180000
+3376,OMR,29.1,Yes,Commercial,34261000
+4275,Tambaram,25.4,No,Commercial,20951000
+417,Nungambakkam,12.6,No,Commercial,10874000
+4433,T Nagar,5.8,No,Residential,71289000
+7381,Adyar,14.4,No,Residential,134912000
+780,Sholinganallur,32.5,Yes,Commercial,8278000
+1502,Ambattur,33.8,Yes,Residential,8120000
+4356,Tambaram,32.4,Yes,Residential,21123000
+5786,Sholinganallur,21.4,No,Commercial,64932000
+6645,Guindy,9.4,No,Commercial,124889000
+1531,T Nagar,15.0,No,Commercial,36396000
+2180,Chrompet,7.8,No,Commercial,24376000
+5725,Guindy,34.2,Yes,Commercial,73165000
+4335,Ambattur,20.8,No,Commercial,39644000
+4682,Anna Nagar,4.6,No,Residential,60139000
+6545,Velachery,27.7,No,Commercial,57513000
+2817,Perambur,7.9,Yes,Commercial,38042000
+5933,Mylapore,26.1,Yes,Commercial,106979000
+6102,Perambur,10.8,Yes,Commercial,71185000
+2961,Chrompet,33.8,Yes,Residential,17351000
+6797,Mylapore,30.3,No,Residential,94974000
+3412,Chrompet,26.7,Yes,Residential,19038000
+1010,Chrompet,7.4,Yes,Residential,8329000
+2564,Ambattur,5.4,No,Residential,18081000
+727,T Nagar,6.2,No,Residential,15082000
+5822,Mylapore,11.2,No,Residential,105699000
+1906,Nungambakkam,18.7,Yes,Commercial,51012000
+2212,OMR,31.0,No,Commercial,17883000
+5464,Perambur,19.0,Yes,Residential,46449000
+5661,Kilpauk,21.9,Yes,Residential,80650000
+6922,Kilpauk,33.1,No,Commercial,82936000
+4634,Kilpauk,29.0,No,Commercial,59522000
+1977,Chrompet,11.9,Yes,Residential,14474000
+4768,Ambattur,1.2,Yes,Residential,49560000
+6014,Mylapore,15.4,Yes,Residential,112903000
+6750,Guindy,15.8,Yes,Residential,66085000
+1116,Anna Nagar,3.5,Yes,Commercial,28488000
+7862,Nungambakkam,9.8,No,Commercial,216694000
+3590,Anna Nagar,23.9,Yes,Residential,54695000
+7348,Guindy,3.5,Yes,Commercial,159331000
+2706,Adyar,27.0,No,Commercial,47357000
+1680,Porur,19.1,Yes,Commercial,22908000
+5594,Velachery,5.9,No,Residential,69169000
+742,Adyar,1.2,No,Residential,14652000
+6346,Kilpauk,12.7,No,Residential,72454000
+2470,Mylapore,7.6,Yes,Residential,59718000
+4178,Ambattur,22.9,Yes,Commercial,38251000
+6344,Nungambakkam,20.7,No,Commercial,121161000
+2735,Adyar,22.1,Yes,Commercial,61484000
+2904,Chrompet,24.6,Yes,Commercial,29675000
+439,T Nagar,11.6,Yes,Commercial,10058000
+6404,Chrompet,12.3,No,Commercial,58688000
+4919,Porur,4.7,Yes,Commercial,79971000
+2009,Ambattur,9.9,Yes,Residential,20572000
+655,Chrompet,28.6,No,Residential,4087000
+7723,Ambattur,35.0,No,Residential,31290000
+5230,Perambur,25.9,No,Residential,30975000
+3380,Sholinganallur,18.1,Yes,Residential,40156000
+1867,T Nagar,20.3,Yes,Commercial,46854000
+4394,Perambur,8.9,No,Commercial,40857000
+7836,Ambattur,27.9,No,Commercial,66632000
+5712,Anna Nagar,12.0,No,Commercial,111814000
+5754,Sholinganallur,13.9,Yes,Commercial,85733000
+3724,Ambattur,13.0,No,Commercial,39123000
+4511,Anna Nagar,31.0,No,Residential,41661000
+2132,Velachery,6.1,Yes,Commercial,41547000
+2286,Chrompet,15.1,No,Residential,15219000
+5239,Nungambakkam,6.5,No,Residential,96356000
+1719,Tambaram,5.6,Yes,Residential,9567000
+4632,T Nagar,33.6,Yes,Commercial,90841000
+4261,Tambaram,30.5,Yes,Residential,23582000
+5173,Perambur,28.9,Yes,Commercial,38124000
+4114,Kilpauk,21.3,Yes,Residential,51518000
+2057,Anna Nagar,18.8,No,Residential,26912000
+5436,Kilpauk,21.4,Yes,Residential,70909000
+4817,Tambaram,29.1,No,Commercial,23483000
+3914,Ambattur,8.8,No,Commercial,34881000
+6638,Kilpauk,29.5,Yes,Commercial,85627000
+7855,Nungambakkam,30.2,No,Commercial,123796000
+6866,Guindy,1.2,Yes,Residential,96529000
+2987,Perambur,14.9,Yes,Residential,24704000
+7403,Velachery,19.2,No,Commercial,112678000
+3785,Nungambakkam,19.8,No,Residential,62297000
+2912,Velachery,20.6,No,Residential,32494000
+2282,Guindy,16.2,Yes,Residential,24080000
+6960,OMR,19.7,Yes,Residential,66447000
+1146,Perambur,29.0,No,Commercial,6655000
+1055,OMR,21.7,No,Commercial,12202000
+5294,Guindy,3.0,Yes,Commercial,97522000
+6985,Chrompet,18.6,Yes,Residential,58035000
+2297,Guindy,21.9,Yes,Commercial,27778000
+1111,T Nagar,34.9,No,Commercial,16851000
+4641,Nungambakkam,1.5,Yes,Residential,128134000
+7895,Ambattur,20.8,No,Commercial,54783000
+3709,Porur,20.5,No,Residential,25607000
+4521,Adyar,11.0,Yes,Commercial,150134000
+2449,Tambaram,24.6,No,Commercial,16929000
+4158,Perambur,24.2,Yes,Commercial,30715000
+6860,Chrompet,34.8,Yes,Commercial,45147000
+479,Ambattur,24.8,No,Residential,2328000
+7126,Guindy,12.6,Yes,Commercial,107301000
+2604,Tambaram,7.2,Yes,Commercial,26065000
+7549,Nungambakkam,10.0,Yes,Residential,207847000
+1677,OMR,27.5,Yes,Residential,16239000
+454,Tambaram,27.0,Yes,Commercial,2761000
+7617,Kilpauk,31.5,No,Commercial,85287000
+2695,Ambattur,14.5,Yes,Residential,20780000
+666,Ambattur,18.1,No,Residential,3899000
+4168,Ambattur,11.7,Yes,Residential,35948000
+3065,Adyar,13.3,No,Residential,53914000
+5422,Porur,12.7,Yes,Commercial,66949000
+3449,Perambur,13.4,No,Commercial,33044000
+6019,Tambaram,8.8,Yes,Commercial,62568000
+3520,Mylapore,7.7,Yes,Commercial,100898000
+1501,Porur,34.8,No,Commercial,10043000
+790,Tambaram,14.5,Yes,Residential,4224000
+5559,Mylapore,4.3,No,Commercial,126952000
+7035,Kilpauk,9.8,Yes,Commercial,132679000
+2029,Tambaram,20.6,Yes,Commercial,14308000
+6746,Porur,26.0,Yes,Commercial,72271000
+7512,T Nagar,6.7,No,Commercial,189398000
+7830,Mylapore,3.4,Yes,Commercial,194188000
+6219,Velachery,10.1,No,Commercial,109631000
+6526,OMR,21.0,No,Commercial,60409000
+6361,T Nagar,9.0,No,Residential,97684000
+922,Adyar,32.9,No,Residential,8870000
+1081,Perambur,4.5,Yes,Residential,11926000
+2278,Velachery,9.4,No,Commercial,34365000
+1797,Mylapore,2.0,No,Commercial,50438000
+4828,Mylapore,32.8,No,Residential,65020000
+5240,T Nagar,21.3,No,Commercial,115138000
+6992,Nungambakkam,4.0,No,Commercial,186653000
+400,Anna Nagar,18.8,Yes,Commercial,7242000
+7953,Guindy,17.7,No,Commercial,81333000
+5290,Velachery,8.9,Yes,Commercial,82722000
+3633,Sholinganallur,9.5,No,Commercial,42166000
+2362,Chrompet,18.6,No,Commercial,20839000
+3782,Velachery,7.4,Yes,Residential,41934000
+5460,Porur,16.4,No,Residential,38960000
+581,Ambattur,7.3,Yes,Commercial,5816000
+467,Guindy,8.9,Yes,Residential,6345000
+6836,Velachery,28.2,No,Commercial,75752000
+7310,Adyar,26.5,Yes,Residential,105792000
+4251,Ambattur,7.2,No,Commercial,45841000
+6254,Perambur,9.5,No,Residential,52583000
+6423,Porur,27.2,Yes,Commercial,63698000
+3046,Kilpauk,6.4,Yes,Residential,48231000
+3352,Nungambakkam,31.2,Yes,Residential,47797000
+1771,Anna Nagar,28.0,Yes,Commercial,30863000
+5160,Anna Nagar,27.6,No,Residential,51931000
+4495,T Nagar,4.1,No,Residential,70411000
+4793,Guindy,27.9,Yes,Commercial,56769000
+5680,Perambur,26.7,No,Residential,25878000
+1503,Guindy,9.5,Yes,Commercial,29669000
+6110,Ambattur,17.7,Yes,Commercial,52383000
+7210,Mylapore,21.4,Yes,Residential,118826000
+2557,Mylapore,19.4,No,Residential,41294000
+1919,Guindy,31.0,No,Residential,13496000
+7109,Ambattur,14.2,No,Residential,49027000
+3038,Chrompet,4.8,Yes,Residential,30634000
+656,Mylapore,7.9,No,Residential,9808000
+3583,Mylapore,23.4,No,Residential,46700000
+507,Adyar,32.6,Yes,Commercial,11562000
+6961,Porur,22.7,No,Commercial,77009000
+7147,Anna Nagar,22.0,Yes,Residential,110012000
+4655,Nungambakkam,4.3,Yes,Commercial,135450000
+5069,Nungambakkam,22.3,Yes,Commercial,142475000
+3332,Tambaram,23.9,No,Residential,12580000
+4534,Sholinganallur,12.5,Yes,Commercial,89111000
+3059,Ambattur,29.7,No,Commercial,22789000
+5013,Nungambakkam,19.6,No,Commercial,106081000
+401,Sholinganallur,25.7,No,Residential,3483000
+453,Velachery,11.2,Yes,Residential,6422000
+6050,Mylapore,29.0,Yes,Residential,69414000
+2570,T Nagar,13.5,Yes,Residential,43300000
+3675,Tambaram,20.3,Yes,Residential,24155000
+4399,T Nagar,29.1,Yes,Commercial,68620000
+1042,Sholinganallur,27.5,No,Commercial,12639000
+7509,Kilpauk,5.1,Yes,Residential,141453000
+2896,Anna Nagar,18.8,No,Residential,35877000
+813,T Nagar,23.9,No,Commercial,16230000
+2219,Adyar,15.7,No,Residential,30411000
+6505,Tambaram,2.7,No,Commercial,44004000
+6116,Perambur,5.4,Yes,Commercial,79878000
+5080,Chrompet,7.7,Yes,Residential,36971000
+6009,OMR,32.4,Yes,Residential,51075000
+1960,OMR,11.9,Yes,Commercial,23335000
+6976,Mylapore,16.0,Yes,Commercial,138940000
+6014,Nungambakkam,13.7,Yes,Residential,142490000
+7991,Tambaram,6.0,No,Residential,47315000
+4086,Velachery,17.0,No,Residential,44389000
+4686,Ambattur,26.5,No,Residential,27966000
+5175,Sholinganallur,31.8,Yes,Commercial,46317000
+6105,Perambur,22.0,Yes,Commercial,60789000
+5809,Sholinganallur,10.2,No,Residential,49184000
+3566,Chrompet,8.9,No,Residential,31084000
+4754,Tambaram,4.0,Yes,Commercial,48222000
+2426,Anna Nagar,32.4,No,Commercial,32051000
+3240,Anna Nagar,24.3,No,Commercial,46761000
+2659,Ambattur,28.6,No,Commercial,21887000
+4946,Anna Nagar,33.3,Yes,Residential,52122000
+1119,T Nagar,25.8,Yes,Commercial,19314000
+7852,Velachery,21.6,No,Residential,61962000
+6003,Ambattur,28.2,Yes,Commercial,53283000
+1507,Kilpauk,15.6,Yes,Residential,21169000
+1369,Guindy,7.3,Yes,Residential,22723000
+3768,Sholinganallur,11.3,No,Residential,43263000
+614,T Nagar,26.9,No,Residential,8082000
+3343,Anna Nagar,3.7,No,Residential,55372000
+5721,Guindy,13.7,No,Commercial,78653000
+664,Nungambakkam,14.9,Yes,Commercial,21561000
+2061,Chrompet,26.8,Yes,Residential,16286000
+5454,Mylapore,17.7,No,Commercial,121464000
+742,Perambur,21.7,No,Commercial,6235000
+5264,Tambaram,19.2,Yes,Residential,31195000
+7590,Anna Nagar,34.9,No,Residential,73509000
+803,Chrompet,7.5,No,Commercial,9485000
+4179,Velachery,6.7,No,Residential,55883000
+7198,Porur,23.0,Yes,Residential,51656000
+6102,Kilpauk,19.6,No,Commercial,85166000
+5235,Porur,31.5,Yes,Commercial,38165000
+7831,Chrompet,25.2,Yes,Residential,42746000
+3373,Chrompet,3.9,No,Residential,25053000
+1799,Perambur,32.0,Yes,Residential,12530000
+820,Guindy,15.3,No,Commercial,10011000
+1477,Kilpauk,33.7,Yes,Commercial,16409000
+4852,Porur,28.5,No,Residential,27659000
+3759,Porur,16.0,Yes,Residential,40591000
+4967,Chrompet,28.9,Yes,Residential,24766000
+700,OMR,5.9,Yes,Commercial,9847000
+3815,Adyar,34.8,Yes,Commercial,72390000
+5088,Tambaram,27.8,Yes,Commercial,36537000
+1162,Anna Nagar,27.1,No,Commercial,19986000
+3900,Perambur,29.7,Yes,Commercial,31111000
+2648,Mylapore,12.2,No,Residential,47284000
+5080,Adyar,25.8,Yes,Commercial,120898000
+6190,Perambur,10.8,No,Commercial,66598000
+7994,OMR,5.4,No,Commercial,108277000
+2306,Tambaram,25.1,Yes,Residential,9887000
+1366,Perambur,26.1,Yes,Commercial,11667000
+7003,Ambattur,22.7,Yes,Residential,49950000
+2921,Adyar,11.2,No,Residential,43680000
+6334,Sholinganallur,20.3,Yes,Residential,58598000
+5908,Kilpauk,17.3,No,Residential,78724000
+4173,Chrompet,31.3,No,Commercial,30069000
+858,Guindy,29.4,No,Commercial,9081000
+6015,Tambaram,12.3,No,Residential,40878000
+3178,Anna Nagar,34.4,Yes,Commercial,38692000
+6556,Perambur,11.5,No,Residential,43358000
+2346,Kilpauk,13.6,No,Residential,30715000
+6830,OMR,2.3,Yes,Residential,82516000
+7813,Porur,18.0,Yes,Commercial,112789000
+2942,Ambattur,27.4,Yes,Residential,21778000
+1487,Chrompet,8.0,Yes,Commercial,16578000
+433,Adyar,11.6,Yes,Residential,8801000
+4664,Adyar,27.1,No,Residential,65541000
+2119,Kilpauk,11.9,Yes,Commercial,39353000
+5897,Porur,5.0,Yes,Residential,55914000
+4984,Tambaram,18.5,Yes,Commercial,38546000
+6986,Guindy,10.6,Yes,Residential,75649000
+4828,OMR,16.1,Yes,Residential,51581000
+3542,Adyar,2.8,No,Commercial,82446000
+5556,Tambaram,29.4,No,Commercial,28231000
+6612,Guindy,23.8,Yes,Commercial,92094000
+7934,Perambur,24.8,Yes,Commercial,68123000
+4212,Perambur,17.0,Yes,Residential,40780000
+3377,Kilpauk,14.3,No,Commercial,54398000
+1324,Porur,12.9,No,Residential,10004000
+1443,Tambaram,18.3,No,Residential,6893000
+2874,Perambur,19.1,No,Commercial,21819000
+4351,T Nagar,14.0,No,Residential,81249000
+3966,Perambur,20.3,No,Residential,22859000
+6231,Guindy,20.5,No,Residential,64136000
+1199,Ambattur,28.9,Yes,Commercial,10863000
+6015,Adyar,28.7,No,Commercial,106270000
+2182,Adyar,28.8,Yes,Residential,36109000
+3594,Velachery,21.9,No,Residential,30353000
+5071,Velachery,28.0,No,Commercial,62162000
+5173,Adyar,1.3,No,Residential,119963000
+4896,Kilpauk,33.9,Yes,Commercial,55540000
+2327,Anna Nagar,15.7,No,Commercial,44323000
+4865,Sholinganallur,8.2,Yes,Commercial,66908000
+7973,Mylapore,13.2,No,Residential,123018000
+1500,T Nagar,1.4,Yes,Residential,37315000
+1512,Sholinganallur,3.9,No,Commercial,27969000
+3887,Kilpauk,22.2,No,Commercial,59425000
+2249,OMR,7.3,Yes,Commercial,41539000
+2605,Ambattur,15.0,No,Residential,21406000
+3419,Guindy,4.8,No,Residential,36586000
+6548,Mylapore,27.5,No,Residential,83808000
+4270,Nungambakkam,22.4,Yes,Commercial,115517000
+6777,Ambattur,1.4,No,Commercial,71834000
+6939,OMR,11.0,Yes,Residential,89919000
+6355,Velachery,27.7,No,Residential,56317000
+822,Tambaram,23.3,No,Residential,3321000
+1029,Ambattur,29.9,No,Commercial,5279000
+2504,Mylapore,1.5,Yes,Residential,65922000
+4058,Chrompet,13.6,Yes,Commercial,46258000
+6948,T Nagar,18.9,Yes,Commercial,199150000
+7131,Tambaram,6.2,No,Commercial,63265000
+6347,Porur,22.7,Yes,Commercial,53801000
+1350,Mylapore,2.8,No,Commercial,32651000
+7956,Perambur,19.1,No,Commercial,67198000
+3961,Mylapore,1.4,No,Commercial,110319000
+736,Chrompet,4.3,No,Commercial,8053000
+3144,Velachery,10.2,Yes,Commercial,56528000
+5931,Perambur,26.5,Yes,Commercial,60425000
+4886,OMR,1.4,Yes,Residential,45168000
+6015,Adyar,16.2,Yes,Commercial,130416000
+1153,Tambaram,2.9,Yes,Residential,9197000
+5353,Mylapore,5.4,Yes,Residential,118305000
+5810,Porur,32.8,No,Commercial,50703000
+6706,Chrompet,27.2,No,Residential,39900000
+3535,Anna Nagar,14.2,Yes,Commercial,85709000
+968,Porur,17.7,Yes,Commercial,9820000
+4828,T Nagar,27.1,Yes,Residential,86987000
+685,Adyar,3.5,No,Commercial,14374000
+5645,Chrompet,1.0,Yes,Commercial,64357000
+3605,Kilpauk,20.5,No,Commercial,56391000
+7054,Perambur,27.7,Yes,Residential,45847000
+4349,Perambur,5.1,No,Commercial,51368000
+5700,Chrompet,4.1,No,Residential,53370000
+5706,Velachery,7.9,Yes,Commercial,105408000
+7743,Sholinganallur,4.6,No,Commercial,94103000
+1952,Guindy,5.8,Yes,Residential,31552000
+3584,Porur,3.1,No,Commercial,48001000
+534,Porur,2.3,Yes,Commercial,8633000
+2134,Adyar,28.4,No,Residential,30962000
+702,Adyar,26.0,No,Residential,10226000
+2388,Anna Nagar,24.8,Yes,Residential,27046000
+7123,Velachery,28.0,No,Residential,64519000
+1271,Mylapore,4.9,Yes,Residential,29898000
+7247,Perambur,34.4,No,Commercial,39676000
+1525,Ambattur,11.9,Yes,Residential,12555000
+2643,Adyar,5.8,No,Residential,57035000
+2395,Porur,32.5,Yes,Residential,13911000
+3481,Tambaram,27.4,Yes,Commercial,17298000
+1130,Kilpauk,25.0,No,Commercial,17895000
+6071,Porur,5.3,Yes,Commercial,87441000
+5401,T Nagar,24.5,Yes,Commercial,111527000
+6810,Mylapore,11.2,No,Residential,112555000
+1183,Ambattur,22.0,Yes,Commercial,12008000
+834,Velachery,7.6,Yes,Commercial,14256000
+753,Kilpauk,2.8,No,Commercial,13231000
+6995,Tambaram,31.3,No,Residential,21618000
+1840,Ambattur,6.4,Yes,Commercial,19986000
+6309,Nungambakkam,16.1,No,Commercial,134955000
+2284,OMR,27.5,No,Residential,13534000
+2038,Mylapore,13.8,Yes,Residential,37452000
+3970,Kilpauk,5.9,No,Residential,54896000
+1990,Guindy,22.5,No,Residential,16664000
+888,Tambaram,10.5,Yes,Commercial,7398000
+2201,OMR,31.1,Yes,Residential,18572000
+1108,Nungambakkam,15.0,No,Residential,22222000
+518,Velachery,25.8,Yes,Residential,4858000
+7997,Kilpauk,21.1,Yes,Residential,101242000
+6408,Porur,27.1,Yes,Commercial,64872000
+6106,Perambur,28.9,No,Commercial,39784000
+6078,Anna Nagar,25.9,Yes,Residential,74245000
+530,Adyar,17.3,No,Residential,9906000
+5181,Guindy,1.8,No,Commercial,104095000
+1915,Sholinganallur,27.9,No,Commercial,20434000
+979,Chrompet,14.1,No,Residential,6241000
+5417,Guindy,19.4,Yes,Residential,66022000
+849,Kilpauk,18.5,No,Residential,8742000
+734,Tambaram,13.4,Yes,Residential,5019000
+3143,T Nagar,9.1,Yes,Commercial,94283000
+6157,Mylapore,8.1,Yes,Commercial,149738000
+3864,Chrompet,10.4,Yes,Commercial,39266000
+7195,Ambattur,5.2,No,Commercial,77644000
+7025,Guindy,34.3,Yes,Residential,72185000
+3600,Adyar,31.5,No,Residential,36902000
+1612,Guindy,17.9,Yes,Residential,18254000
+1481,Ambattur,17.1,No,Commercial,13020000
+915,Nungambakkam,1.7,Yes,Commercial,29821000
+6845,Chrompet,12.1,No,Commercial,55191000
+2910,Perambur,6.8,No,Residential,25003000
+7326,Perambur,2.6,No,Commercial,79014000
+1717,Kilpauk,25.2,No,Residential,23104000
+7811,Guindy,23.7,Yes,Residential,70533000
+5106,OMR,5.3,No,Commercial,59523000
+5852,Anna Nagar,11.8,No,Residential,81463000
+4771,T Nagar,11.3,Yes,Commercial,148926000
+8000,Porur,11.9,Yes,Commercial,109150000
+2774,Kilpauk,34.0,Yes,Commercial,34198000
+7774,Porur,2.4,Yes,Commercial,92263000
+4053,Nungambakkam,13.2,No,Residential,78956000
+2219,Ambattur,27.6,No,Residential,8769000
+5946,Porur,23.8,Yes,Commercial,53615000
+4590,Tambaram,33.1,No,Commercial,19698000
+3563,OMR,13.7,No,Commercial,42509000
+4995,Mylapore,4.0,No,Commercial,131297000
+6363,Perambur,34.0,No,Commercial,35195000
+1576,Adyar,8.1,No,Commercial,33276000
+3478,Perambur,4.0,No,Commercial,37541000
+5052,Guindy,26.7,Yes,Residential,43306000
+4418,Ambattur,2.4,No,Commercial,46224000
+619,Nungambakkam,27.9,Yes,Commercial,12919000
+4271,Chrompet,5.2,No,Commercial,38668000
+2404,Chrompet,2.0,No,Commercial,29729000
+3363,Guindy,20.8,No,Commercial,45562000
+7103,Guindy,5.1,Yes,Commercial,108049000
+4176,OMR,30.9,Yes,Commercial,34772000
+5612,Sholinganallur,32.0,No,Residential,36330000
+1029,Kilpauk,18.5,Yes,Residential,14843000
+7547,OMR,11.8,No,Commercial,108593000
+4777,Adyar,20.7,Yes,Residential,71443000
+4372,Perambur,15.0,Yes,Residential,32245000
+1943,Mylapore,28.0,Yes,Commercial,34366000
+1475,Mylapore,32.4,No,Commercial,19843000
+4020,Mylapore,31.3,No,Residential,47918000
+1371,Mylapore,8.6,Yes,Residential,24849000
+3880,Adyar,24.5,Yes,Residential,51859000
+748,Sholinganallur,7.7,Yes,Residential,9874000
+942,Anna Nagar,11.3,Yes,Residential,18518000
+5213,Nungambakkam,31.6,Yes,Commercial,84408000
+2672,Guindy,33.3,No,Commercial,22212000
+5421,Guindy,9.2,Yes,Residential,88542000
+2177,Ambattur,25.3,No,Residential,14398000
+1208,Guindy,32.4,No,Commercial,13007000
