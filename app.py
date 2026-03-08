@@ -5,9 +5,6 @@ import os
 
 app = Flask(__name__)
 
-# ---------------------------------------------------
-# LOAD MODEL + ENCODERS
-# ---------------------------------------------------
 MODEL_PATH = os.path.join(os.path.dirname(__file__), "model.pkl")
 
 with open(MODEL_PATH, "rb") as f:
@@ -19,8 +16,6 @@ le_land      = bundle["le_land"]
 le_road      = bundle["le_road"]
 
 LOCALITIES = list(le_locality.classes_)
-
-# Base prices from model (1000 sqft, residential, yes road, 5km)
 def get_base_price(loc):
     loc_enc  = le_locality.transform([loc])[0]
     road_enc = le_road.transform(["Yes"])[0]
@@ -30,16 +25,11 @@ def get_base_price(loc):
 
 BASE_PRICES = {loc: get_base_price(loc) for loc in LOCALITIES}
 
-# ---------------------------------------------------
 # HOME PAGE
-# ---------------------------------------------------
 @app.route("/")
 def home():
     return render_template("index.html")
 
-# ---------------------------------------------------
-# API — localities with base_price (fixes empty dropdown)
-# ---------------------------------------------------
 @app.route("/api/localities", methods=["GET"])
 def localities():
     return jsonify({
@@ -53,9 +43,6 @@ def localities():
         ]
     })
 
-# ---------------------------------------------------
-# API — zone rates
-# ---------------------------------------------------
 @app.route("/api/zone-rates", methods=["GET"])
 def zone_rates():
     import random
@@ -71,9 +58,6 @@ def zone_rates():
         })
     return jsonify({"rates": rates})
 
-# ---------------------------------------------------
-# API — predict (JS fetch from index.html)
-# ---------------------------------------------------
 @app.route("/api/predict", methods=["POST"])
 def api_predict():
     try:
@@ -88,7 +72,6 @@ def api_predict():
         if not locality or area <= 0:
             return jsonify({"error": "Invalid input"}), 400
 
-        # Map to model values
         land_map  = {"residential": "Residential", "commercial": "Commercial",
                      "agricultural": "Residential", "mixed_use": "Commercial"}
         land_type = land_map.get(plot_type, "Residential")
@@ -96,7 +79,6 @@ def api_predict():
         infra_dist  = {"metro": 3, "highway": 5, "it_park": 8, "school": 6, "none": 15}
         distance    = infra_dist.get(infra, 8)
 
-        # Encode
         loc_enc  = le_locality.transform([locality])[0]
         road_enc = le_road.transform([road_access])[0]
         land_enc = le_land.transform([land_type])[0]
@@ -130,6 +112,5 @@ def api_predict():
         print("ERROR:", e)
         return jsonify({"error": str(e)}), 500
 
-# ---------------------------------------------------
 if __name__ == "__main__":
     app.run(debug=True)
