@@ -175,23 +175,23 @@ footer { background: var(--ink); padding: 40px 56px; display: flex; justify-cont
 
 <section class="predictor" id="predictor">
   <div>
-  <div class="sec-eyebrow">AI Predictor</div>
+  <div class="sec-eyebrow"> Predictor</div>
   <h2>Get your <em>Chennai</em><br>land valuation</h2>
 
   <div class="pred-wrap">
     <div class="pred-form">
-      <label class="f-label">Locality</label>
+      <label class="f-label" for="locality">Locality</label>
       <select class="f-select" id="locality"name="locality" required>
         <option value="">Select locality…</option>
       </select>
 
       <div class="f-grid">
         <div>
-          <label class="f-label">Land Area (sqft)</label>
+          <label class="f-label" for="area">Land Area (sqft)</label>
           <input class="f-input" type="number" id="area" name="area" placeholder="e.g. 2400" min="100" required>
         </div>
         <div>
-          <label class="f-label">Plot Type</label>
+          <label class="f-label" for="plotType">Plot Type</label>
           <select class="f-select" id="plotType" name="land_type">
             <option value="residential">Residential</option>
             <option value="commercial">Commercial</option>
@@ -204,7 +204,7 @@ footer { background: var(--ink); padding: 40px 56px; display: flex; justify-cont
 
       <div class="f-grid">
         <div>
-          <label class="f-label">Road Width (ft)</label>
+          <label class="f-label" for="roadWidth">Road Width (ft)</label>
           <select class="f-select" id="roadWidth" name="road">
             <option value="40">40+ ft (Main Road)</option>
             <option value="30">30 ft</option>
@@ -213,7 +213,7 @@ footer { background: var(--ink); padding: 40px 56px; display: flex; justify-cont
           </select>
         </div>
         <div>
-          <label class="f-label">Facing Direction</label>
+          <label class="f-label" for="facing">Facing Direction</label>
           <select class="f-select" id="facing">
             <option value="east">East</option>
             <option value="north">North</option>
@@ -224,7 +224,7 @@ footer { background: var(--ink); padding: 40px 56px; display: flex; justify-cont
         </div>
       </div>
 
-      <label class="f-label">Nearby Infrastructure</label>
+      <label class="f-label" for="infra">Nearby Infrastructure</label>
       <select class="f-select" id="infra">
         <option value="metro">Metro Station (within 1 km)</option>
         <option value="highway">Highway Access</option>

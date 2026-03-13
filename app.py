@@ -26,7 +26,7 @@ def get_base_price(loc):
 BASE_PRICES = {loc: get_base_price(loc) for loc in LOCALITIES}
 
 # HOME PAGE
-@app.route("/")
+@app.route("/", methods=["GET"])
 def home():
     return render_template("index.html")
 
